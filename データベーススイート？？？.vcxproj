@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Any.cpp" />
+    <ClCompile Include="DataSuite.cpp" />
     <ClCompile Include="DataTank.cpp" />
     <ClCompile Include="FixedFlatMap.cpp" />
     <ClCompile Include="FixedRelationDBs.cpp" />
@@ -145,6 +146,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Any.h" />
+    <ClInclude Include="DataSuite.h" />
     <ClInclude Include="DataTank.h" />
     <ClInclude Include="FixedFlatMap.h" />
     <ClInclude Include="FixedRelationDBs.h" />
